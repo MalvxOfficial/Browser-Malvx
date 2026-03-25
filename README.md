@@ -50,7 +50,7 @@ Se você deseja clonar e testar este projeto:
 ## 🤝 Créditos
 
 Desenvolvido por **(ChimasAlice)**.
-Baseado em estudos de automação e modificação de sistemas Android.
+Baseado em Gemini e humanos.
 
 ---
 
