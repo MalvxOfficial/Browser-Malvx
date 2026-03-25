@@ -60,6 +60,7 @@ I created a comprehensive README.md for your GitHub repository. It highlights ke
 **Legenda:**
 Criei um README.md completo para o seu repositório no GitHub. Ele destaca recursos principais como o Troca de UA, Interface Ultra-Dark, controles de fonte e a lógica de interceptação de download, além de detalhes técnicos para quem quiser compilar o projeto.
 
+
 ***Todo o projeto foi desenvolvido por brasileiros, mas aceitamos voluntários de outros países para traduzir e modificar nosso app!***
 
 ***The entire project was developed by Brazilians, but we welcome international volunteers to help translate and modify our app!***
